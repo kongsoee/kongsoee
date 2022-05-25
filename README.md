@@ -7,6 +7,8 @@
 
 
 <h3 align="center">❇️️️</h3>
+안녕하세요!<br>
+유연한 사고를 가지고 프론트엔드 개발자를 지망하는 공소이라고합니다.😀
 <p align="center">
 
 
@@ -25,5 +27,4 @@
   
 </div>
 
-<h3 align="center"> My Github Stats 🌐 </h3>
 
